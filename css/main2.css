@@ -1,0 +1,24 @@
+/*Ejemplo B: posicionados relativamente
+-Se muestra las tres cajas del ejemplo A.
+-Se cambio la position a relative, se muestra igual porque nose alteraron las propiedades de
+desplazamiento: top, right, bottom, y left.*/
+#box_1 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+#box_2 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+#box_3 {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}

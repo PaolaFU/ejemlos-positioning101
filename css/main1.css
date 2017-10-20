@@ -1,0 +1,25 @@
+/*Ejemplo A:
+-Demuetra la position static de 3 cajas de diferente color. Su posicion esta predefinida por el navegador
+-Como son elementos in Block, cada caja va en una linea nueva, uno debajo de otro
+-En position static no existe propiedades top, right, bottom, y left */
+#box_1 {
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+#box_2 {
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+
+
+#box_3 {
+	position: static;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
